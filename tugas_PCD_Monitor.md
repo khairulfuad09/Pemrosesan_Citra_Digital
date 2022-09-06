@@ -21,7 +21,7 @@
 
 
     - Cathod Ray Tube
-
+    <img align="right" height="200" width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Oscilloscopic_tube.jpg/220px-Oscilloscopic_tube.jpg">
     Bentuk monitor pda awal kemunculannya adalah berbentuk tabung yakni tabung sinar katoda atau Cathod Ray Tube (CRT).
 
     CRT ini ditemukan oleh ilmuwan bernama Karl Ferdinand Braun. BEntuknya merupakan sebuah tabung penampinal yang banyak digunakan digunakan dalam layar komputer, monitor video, televisi dan oskiloskop.
