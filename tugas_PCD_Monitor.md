@@ -1,5 +1,4 @@
-<h1 align="center">Pemprosesan Citra Digital
-Monitor</h1>
+<h1 align="center">Pemprosesan Citra Digital <br> Monitor</h1>
 
 ### Nama Kelompok :
 - Khairul Fuad (2110131310002)
