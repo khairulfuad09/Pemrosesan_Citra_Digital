@@ -1,3 +1,6 @@
+# nama : khairul fuad
+# nim : 2110131310002
+
 # __Monitor__
 
 Monitor adalah sebuah alat atau perangkat yang menampilkan gambar atau hasil suatu proses data yang diinput. Gambar yang ditampilkan ke monitor merupakan hasi proses grafis yang dilakukan oleh VGA Card.
