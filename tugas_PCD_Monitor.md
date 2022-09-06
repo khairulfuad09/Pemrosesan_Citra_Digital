@@ -27,12 +27,11 @@
     CRT ini ditemukan oleh ilmuwan bernama Karl Ferdinand Braun. BEntuknya merupakan sebuah tabung penampinal yang banyak digunakan digunakan dalam layar komputer, monitor video, televisi dan oskiloskop.
 
     CRT ini sudah menampilkan warna yang lumayan lengkap sehingga Warna lebih akurat atau hampir sama dengan aslinya. Monitor ini menggunakan daya listrik yang lumayan besar.
-
-    Cara kerja CRT adalah sebagai berikut:
-    1. Elektron ditembakkan dari belakang tabung gambar menuju bagian dalam tabung yang dilapis elemen yang terbuat dari bagian yang memiliki kemampuan untuk memendarkan cahaya.
-    2. Sinar elektron tersebut melewati serangkaian magnet kuat yang membelok-belokkan sinar menuju bagian-bagian tertentu dari tabung bagian dalam.
-    3. Sinar itu akan menyinari lapisan berpendar, menyebabkan tempat-tempat tertentu untuk berpendar secara temporer.
-    4. Setiap tempat tertentu mewakili pixel tertentu. Dengan mengontrol tegangan dari sinar tersebut, terciptalah teknologi yang mampu mengatur pixel-pixel tersebut untuk berpendar dengan intensitas cahaya tertentu. Dari pixel-pixel tersebut, dapat dibentuklah gambar.
+Cara kerja CRT adalah sebagai berikut:
+1.  Elektron ditembakkan dari belakang tabung gambar menuju bagian dalam tabung yang dilapis elemen yang terbuat dari bagian yang memiliki kemampuan untuk memendarkan cahaya.
+2.  Sinar elektron tersebut melewati serangkaian magnet kuat yang membelok-belokkan sinar menuju bagian-bagian tertentu dari tabung bagian dalam.
+3.  Sinar itu akan menyinari lapisan berpendar, menyebabkan tempat-tempat tertentu untuk berpendar secara temporer.
+4.  Setiap tempat tertentu mewakili pixel tertentu. Dengan mengontrol tegangan dari sinar tersebut, terciptalah teknologi yang mampu mengatur pixel-pixel tersebut untuk berpendar dengan intensitas cahaya tertentu. Dari pixel-pixel tersebut, dapat dibentuklah gambar.
 
     - LCD ( Light Crystal Display)
 
