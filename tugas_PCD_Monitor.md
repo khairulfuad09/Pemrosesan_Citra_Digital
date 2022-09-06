@@ -1,10 +1,11 @@
 <h1 align="center">Pemprosesan Citra Digital</h1>
+<h1 align="center">Monitor</h1>
 
 ### Nama Kelompok :
 - Khairul Fuad (2110131310002)
 - Muhammad Ramadhani (2110131210003)
 
-# __Monitor__
+
 
 Monitor adalah sebuah alat atau perangkat yang menampilkan gambar atau hasil suatu proses data yang diinput. Gambar yang ditampilkan ke monitor merupakan hasi proses grafis yang dilakukan oleh VGA Card.
 
