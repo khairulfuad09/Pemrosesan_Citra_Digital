@@ -28,10 +28,11 @@
 
     CRT ini sudah menampilkan warna yang lumayan lengkap sehingga Warna lebih akurat atau hampir sama dengan aslinya. Monitor ini menggunakan daya listrik yang lumayan besar.
     Cara kerja CRT adalah sebagai berikut:
-    -   Elektron ditembakkan dari belakang tabung gambar menuju bagian dalam tabung yang dilapis elemen yang terbuat dari bagian yang memiliki kemampuan untuk memendarkan cahaya.
-    -   inar elektron tersebut melewati serangkaian magnet kuat yang membelok-belokkan sinar menuju bagian-bagian tertentu dari tabung bagian dalam.
-    -   Sinar itu akan menyinari lapisan berpendar, menyebabkan tempat-tempat tertentu untuk berpendar secara temporer.
-    -   Setiap tempat tertentu mewakili pixel tertentu. Dengan mengontrol tegangan dari sinar tersebut, terciptalah teknologi yang mampu mengatur pixel-pixel tersebut untuk berpendar dengan intensitas cahaya tertentu. Dari pixel-pixel tersebut, dapat dibentuklah gambar.
+    
+        -   Elektron ditembakkan dari belakang tabung gambar menuju bagian dalam tabung yang dilapis elemen yang terbuat dari bagian yang memiliki kemampuan untuk memendarkan cahaya.
+        -   inar elektron tersebut melewati serangkaian magnet kuat yang membelok-belokkan sinar menuju bagian-bagian tertentu dari tabung bagian dalam.
+        -   Sinar itu akan menyinari lapisan berpendar, menyebabkan tempat-tempat tertentu untuk berpendar secara temporer.
+        -   Setiap tempat tertentu mewakili pixel tertentu. Dengan mengontrol tegangan dari sinar tersebut, terciptalah teknologi yang mampu mengatur pixel-pixel tersebut untuk berpendar dengan intensitas cahaya tertentu. Dari pixel-pixel tersebut, dapat dibentuklah gambar.
 
     - LCD ( Light Crystal Display)
 
