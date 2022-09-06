@@ -4,7 +4,7 @@
 - Khairul Fuad (2110131310002)
 - Muhammad Ramadhani (2110131210003)
 <br>
-<img align="center" height="200" width="250" src="https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07062905.png">
+<img align="right" height="200" width="250" src="https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07062905.png">
     
 
 
