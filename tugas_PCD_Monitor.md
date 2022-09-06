@@ -20,7 +20,7 @@
     Berikut ini akan kami rangkum jenis-jenis monitor lengkap dengan bagaimana cara kerjanya.
 
 
-    - Cathod Ray Tube
+    -   Cathod Ray Tube
     <img align="right" height="200" width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Oscilloscopic_tube.jpg/220px-Oscilloscopic_tube.jpg">
     Bentuk monitor pda awal kemunculannya adalah berbentuk tabung yakni tabung sinar katoda atau Cathod Ray Tube (CRT).
 
@@ -35,9 +35,9 @@
         3.   Sinar itu akan menyinari lapisan berpendar, menyebabkan tempat-tempat tertentu untuk berpendar secara temporer.
         4.   Setiap tempat tertentu mewakili pixel tertentu. Dengan mengontrol tegangan dari sinar tersebut, terciptalah teknologi yang mampu mengatur pixel-pixel tersebut untuk berpendar dengan intensitas cahaya tertentu. Dari pixel-pixel tersebut, dapat dibentuklah gambar.
 
-    - LCD ( Light Crystal Display)
-
-    Selanjutnya monitor tabung yang tambun digantikan dengan LCD alias Light Crystal Display. LCd ini bentuknya lebih ramping dan gampang dipindahkan.
+    - LCD ( Liquid Crystal Display)
+    <img align="right" height="200" width="250" src="https://cdn.britannica.com/28/70028-050-E7376EDA/architecture-transistor-liquid-crystal-display-picture-element.jpg">
+    Selanjutnya monitor tabung yang tambun digantikan dengan LCD alias Liquid Crystal Display. LCd ini bentuknya lebih ramping dan gampang dipindahkan.
 
     Untuk teknologinya, monitor LCD menggunakan sejenis kristal liquid yang dapat berpencar. Karena mempunyai bentuk yang pipih.
     Monitor LCD berbentuk flat, bukan lagi tabung seperti tabung katoda. LCD juga membutuhkan energi yang lebih kecil daripada tabung.
@@ -55,7 +55,7 @@
         4. Response Time yang lambat akan menimbulkan cacat gambar yang disebut ghosting atau jejak gambar. Biasanya pada objek yang bergerak cepat misal sedang memutar film akan menimbulkan jejak gambar seperti beberapa bujur sangkar yang terlihat seperti persegi.
 
     - LED ( Light Emitting Diode )
-
+    <img align="right" height="200" width="250" src="http://www.bansarchina.com/wp-content/uploads/2021/01/Figure-3-How-LED-Display-Works.jpg">
     Jenis monitor selanjutnya adalah LED yakni Light Emitting Diode. LED memakai cahaya pancaran diode sebagai sumber cahaya televisi.
 
     Diode juga digunakan untuk membuat banyak vibrant dan image yang berwarna-warni. Warna LED Televisi LED memiliki kontras rasio 500,000:1, juga refresh rate yang tinggi untuk membantu menonton acara yang penuh dengan gerakan seperti olahraga dan film.
@@ -65,7 +65,7 @@
     Adapun cara kerja LED adalah menggunakan katup (polar). Arah arus konvensional hanya dapat mengalir dari anoda ke katoda.
 
     - Monitor Plasma Gas
-
+    <img align="right" height="200" width="250" src="https://www.retropaq.com/wp-content/uploads/2020/10/IMG_1018-scaled.jpg">
     Monitor plasma gas adalah monitor yang menggunakan fosfor untuk menghasilkan cahaya seperti halnya CRT. Sama dengan CRT monitor plasma juga membutuhkan energi listrik yang besar. Selain itu Cell plasma untuk perwakilan tiap pixel gambar hanya memiliki fungsi on/off sehingga reproduksi warna jauh lebih terbatasi lagi dibandingkan tipe CRT ataupun LCD.
 
     Adapun cara kerja monitor plasma gas adalah sebagai berikut
@@ -75,7 +75,7 @@
     Tampilan pada monitor plasma gas dapat dibuat lebih besar dibandingkan LCD. Selain itu, sudut pandang pada plasma gas dapat selebar CRT.
 
     - OLED (Organic Light Emitting Diode)
-
+    <img align="right" height="200" width="250" src="https://4.bp.blogspot.com/-2-5R4aXCido/VUmGOEfynQI/AAAAAAAAEDg/OSgkz8KXDh8/s1600/AMOLED%2Bstructure.jpg">
     Selanjutnya adalah monitor jenis Organic Light Emiting Diode (OLED). Seperti namanya, OLED bekerja dengan memanfaatkan teknologi diode sehingga bisa menggantikan neon fluorescent.
 
     Teknologi OLED ditemukan perusahaan Eastman Kodak, Dr. Ching W. Tang pada tahun 1979. Riset di Indonesia mengenai teknologi ini dimulai pada tahun 2005. OLED diciptakan sebagai teknologi alternative yang mampu mengungguli generasi tampilan layar sebelumnya.
