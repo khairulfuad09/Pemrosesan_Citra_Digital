@@ -27,6 +27,7 @@
     CRT ini ditemukan oleh ilmuwan bernama Karl Ferdinand Braun. BEntuknya merupakan sebuah tabung penampinal yang banyak digunakan digunakan dalam layar komputer, monitor video, televisi dan oskiloskop.
 
     CRT ini sudah menampilkan warna yang lumayan lengkap sehingga Warna lebih akurat atau hampir sama dengan aslinya. Monitor ini menggunakan daya listrik yang lumayan besar.
+    
     Cara kerja CRT adalah sebagai berikut:
     
         1.   Elektron ditembakkan dari belakang tabung gambar menuju bagian dalam tabung yang dilapis elemen yang terbuat dari bagian yang memiliki kemampuan untuk memendarkan cahaya.
@@ -43,15 +44,15 @@
 
     Cara Kerja Monitor LCD adalah sebagai berikut:
 
-        – Kristal cair menyaring cahaya backlight. Cahaya putih merupakan susunan dari beberapa ratus spektrum cahaya dengan warna yang berbeda.
+        1. Kristal cair menyaring cahaya backlight. Cahaya putih merupakan susunan dari beberapa ratus spektrum cahaya dengan warna yang berbeda.
 
-        – Beberapa ratus spektrum cahaya tersebut akan terlihat jika cahaya putih mengalami refleksi atau perubahan arah sinar.
+        2. Beberapa ratus spektrum cahaya tersebut akan terlihat jika cahaya putih mengalami refleksi atau perubahan arah sinar.
 
-        – LCD bekerja dengan cara membuka dan menutup layaknya tirai. Proses buka tutup ini berlangsung sangat cepat.
+        3. LCD bekerja dengan cara membuka dan menutup layaknya tirai. Proses buka tutup ini berlangsung sangat cepat.
 
         Response Time adalah waktu yang diperlukan untuk berubah dari posisi kristal cair tertutup rapat (waktu menampilkan warna hitam) ke posisi kristal cair terbuka lebar (waktu menampilkan warna putih).
 
-        – Response Time yang lambat akan menimbulkan cacat gambar yang disebut ghosting atau jejak gambar. Biasanya pada objek yang bergerak cepat misal sedang memutar film akan menimbulkan jejak gambar seperti beberapa bujur sangkar yang terlihat seperti persegi.
+        4. Response Time yang lambat akan menimbulkan cacat gambar yang disebut ghosting atau jejak gambar. Biasanya pada objek yang bergerak cepat misal sedang memutar film akan menimbulkan jejak gambar seperti beberapa bujur sangkar yang terlihat seperti persegi.
 
     - LED ( Light Emitting Diode )
 
