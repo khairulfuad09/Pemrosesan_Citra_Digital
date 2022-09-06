@@ -6,10 +6,7 @@
 <br>
 <img align="right" height="200" width="250" src="https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07062905.png">
     
-
-
-
-Monitor adalah sebuah alat atau perangkat yang menampilkan gambar atau hasil suatu proses data yang diinput. Gambar yang ditampilkan ke monitor merupakan hasi proses grafis yang dilakukan oleh VGA Card.
+<justify>Monitor adalah sebuah alat atau perangkat yang menampilkan gambar atau hasil suatu proses data yang diinput. Gambar yang ditampilkan ke monitor merupakan hasi proses grafis yang dilakukan oleh VGA Card.
 
 Monitor secara teknis akan menampilkan pekerjaan Anda sehingga Anda bisa melihat hasilnya. Monitor bisanya terhubung dengan komputer dan bertugas sebagai penampil informasi yang dipanggil penggunanya.Tanpa ada monitor, maka komputer tidak dapat menampilkan tugas atau perintah.
 
@@ -17,7 +14,7 @@ Perintah yang diketikan pada keyboard atau dari klik mouse dapat diproses oleh k
 
 Monitor sebagai hardware juga memerlukaan sumber listrik, dalam hal ini monitor mengambil sumber listrik langsung menggunakan kabel yang terhubung ke listrik.
 
-Nah, gambar yang ditampilkan di layar monitor yang biasa Anda lihat itu adalah hasil dari proses data maupun informasi input. Monitor mempunyai banyak bentuk ukuran layar seperti sebuah televisi. Setiap merek dan ukuran monitor mempunyai resolusi yang berbeda.
+Nah, gambar yang ditampilkan di layar monitor yang biasa Anda lihat itu adalah hasil dari proses data maupun informasi input. Monitor mempunyai banyak bentuk ukuran layar seperti sebuah televisi. Setiap merek dan ukuran monitor mempunyai resolusi yang berbeda.</justify>
 
 
 1. __Fungsi Monitor__
