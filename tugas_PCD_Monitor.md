@@ -1,8 +1,11 @@
-<h1 align="center">Pemprosesan Citra Digital <br> Monitor</h1>
+<h1 align="center">Pemprosesan Citra Digital <br> "Monitor"</h1>
 
 ### Nama Kelompok :
 - Khairul Fuad (2110131310002)
 - Muhammad Ramadhani (2110131210003)
+<br>
+<img align="center" height="200" width="250" src="[https://tedas.id/wp-content/uploads/2021/01/notebook-adalah.jpg](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07062905.png)">
+    
 
 
 
