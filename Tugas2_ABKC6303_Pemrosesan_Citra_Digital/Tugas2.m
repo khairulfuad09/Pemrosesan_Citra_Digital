@@ -1,0 +1,21 @@
+gambar = imread('/home/khairulfuad/work_github/Pemrosesan_Citra_Digital/Tugas2_ABKC6303_Pemrosesan_Citra_Digital/img/4.png');
+imshow(gambar);
+R = gambar(:,:,1);
+G = gambar(:,:,2);
+B = gambar(:,:,3);
+Red = cat(3,R,G*0,B*0);
+Green = cat(3,R*0,G,B*0);
+Blue = cat(3,R*0,G*0,B);
+
+figure(4);
+subplot(1,2,1);imshow(Green);title('gambar dasar');
+subplot(2,2,1);imhist(Green);title('gambar dasar');
+figure(3);
+subplot(1,2,1);imshow(Red);title('gambar dasar');
+subplot(2,2,1);imhist(Green);title('gambar dasar');
+figure(2);
+subplot(1,2,1);imshow(Blue);title('gambar dasar');
+subplot(2,2,1);imhist(Green);title('gambar dasar');
+figure(1);
+subplot(1,2,1);imshow(gambar  );title('gambar dasar');
+subplot(2,2,1);imhist(Green);title('gambar dasar');
