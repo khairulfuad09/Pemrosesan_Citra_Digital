@@ -1,15 +1,15 @@
 # Hasil Eksplorasi Octave menggunakan Package image
 
-![layer](/img/layerr.png)
+![layer](img/layerr.png)
 
 Dari gambar di atas dapat di simpulkan bahwa suatu gambar terbagi menjadi 3 layer yaitu layer Red, Green, dan Blue
 
-![imhist](/img/imhist.png)
+![imhist](img/imhist.png)
 
 ### **imhist**
 Penggunaan imhist ditujukan untuk menampilkan histogram dari sebuah gambar
 
-![code](/img/code.png)
+![code](img/code.png)
 ### **imread**
 Adapun fungsi imread, itu seperti membaca sebuah foto, jika pada html bisa seperti src di tag `<img>` 
 
