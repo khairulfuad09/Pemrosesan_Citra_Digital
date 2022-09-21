@@ -1,4 +1,4 @@
-gambar = imread('/home/khairulfuad/work_github/Pemrosesan_Citra_Digital/Tugas2_ABKC6303_Pemrosesan_Citra_Digital/img/4.png');
+gambar = imread('/home/khairulfuad/work_github/Pemrosesan_Citra_Digital/Tugas2_ABKC6303_Pemrosesan_Citra_Digital/img/Yuliana_PCD.JPG');
 imshow(gambar);
 R = gambar(:,:,1);
 G = gambar(:,:,2);

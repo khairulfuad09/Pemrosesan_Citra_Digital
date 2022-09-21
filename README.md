@@ -8,33 +8,34 @@
 - **Praktikum** Kamis, Jam 08.50 - 10.40 ( Lab. Pilkom)
 
 
-| NIM | Nama | Link |
+| NIM | Nama | Link-repo_PCD |
 | ----------- | :---------: | :---------- |
-| 2110131110003 | Ady Mutalib | https://github.com/adymutalib |
-| 2110131220017 | DIFANA NANDA PRIDHASILA ZEIN | https://github.com/nandaazein |
-| 2110131110004 | SOPIA REFALDI | https://github.com/Srefaldi |
-| 2110131220008 | Risma Wulandari | https://github.com/RismaWulandarii |
-| 2110131120006 | Maysarah | https://github.com/maysraah |
-| 2110131210003 | Muhammad Ramadhani | https://github.com/Madhan215 |
-| 2110131220020 | FATIMAH AZZAHRA MAULIDA | https://github.com/xsjtsra |
-| 2110131220001 | YULIANA | https://github.com/yuliana-ulm |
-| 2110131320006 | MAISYA PUSPITA SARI | https://github.com/maisyaapuspitaa |
-| 2110131220011 | EGYN TERESCOVA NADIA | https://github.com/egynnadia |
-| 2110131220012 | Delphia Aryana | https://github.com/DelphiaAryana |
-| 2110131120002 | PUTRI TARI LESTARI | https://github.com/putritta06 |
-| 2110131120008 | RISALATUL HUSNA | https://github.com/RisalatulHusna |
-| 2110131220016 | ALFIKA NURFADIA | https://github.com/AlfikaNurfadia |
-| 2110131220013 | Iif Alifah | https://github.com/IifAlifah |
-| 2110131120005 | JULITA HASANAH | https://github.com/JulitaHasanah |
-| 2110131320010 | ADELIA ERLYN NOR CANDRA PRASETYANA | https://github.com/adeliaerlyn |
-| 2110131220010 | SESILIA MIRANDA | https://github.com/sesiliamiranda |
-| 2110131320009 | Ana Maria Parasanti | https://github.com/anamria |
-| 2110131120007 | Nurhaliza | https://github.com/nurhalizach |
-| 2110131220007 | Naila Hasanah | https://github.com/Nailahasanah |
-| 2110131220015 | MEYDA WIKAROMAH | https://github.com/MeydaWikaromah |
-| 2110131210002 | Khoyrur Roykhan | https://github.com/KhoyrurRoykhan |
-| 2110131210018 | Tio Ezekiel | https://github.com/ezkl-t |
-| 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09 |
-| 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra |
-| 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu |
+| 2110131110003 | Ady Mutalib | https://github.com/adymutalib/Tugas_Pemrosesan_Citra_Digital.git |
+| 2110131220017 | DIFANA NANDA PRIDHASILA ZEIN | https://github.com/nandaazein = belum|
+| 2110131110004 | SOPIA REFALDI | https://github.com/Srefaldi/Mata-Kuliah-Pemrosesan-Citra-Digital.git |
+| 2110131220008 | Risma Wulandari | https://github.com/RismaWulandarii/Tugas_Pemrosesan_Citra_Digital.git |
+| 2110131120006 | Maysarah | https://github.com/maysraah = belum|
+| 2110131210003 | Muhammad Ramadhani | https://github.com/Madhan215/Perkuliahan/tree/main/Semester_3/Tugas_Pemprosesan_Citra_Digital |
+| 2110131220020 | FATIMAH AZZAHRA MAULIDA | https://github.com/xsjtsra = belum|
+| 2110131220001 | YULIANA | https://github.com/yuliana-ulm/Tugas_Pemrosesan-Citra-Digital |
+| 2110131320006 | MAISYA PUSPITA SARI | https://github.com/maisyaapuspitaa/Tugas_Pemrosesan_Citra_Digital |
+| 2110131220011 | EGYN TERESCOVA NADIA | https://github.com/egynnadia = belum |
+| 2110131220012 | Delphia Aryana | https://github.com/DelphiaAryana = belum |
+| 2110131120002 | PUTRI TARI LESTARI | https://github.com/putritta06/my_repository/tree/master/PEMROSESAN_CITRA_DIGITAL |
+| 2110131120008 | RISALATUL HUSNA | https://github.com/RisalatulHusna/Tugas_Pemrosesan_Citra_Digital.git |
+| 2110131220016 | ALFIKA NURFADIA | https://github.com/AlfikaNurfadia/Tugas_PCD |
+| 2110131220013 | Iif Alifah | https://github.com/IifAlifah = belum |
+| 2110131120005 | JULITA HASANAH | https://github.com/JulitaHasanah = belum |
+| 2110131320010 | ADELIA ERLYN NOR CANDRA PRASETYANA | https://github.com/adeliaerlyn = belum |
+| 2110131220010 | SESILIA MIRANDA | https://github.com/sesiliamiranda/Pemerosesan_Citra_Digital |
+| 2110131320009 | Ana Maria Parasanti | https://github.com/anamria = belum |
+| 2110131120007 | Nurhaliza | https://github.com/nurhalizach = belum |
+| 2110131220007 | Naila Hasanah | https://github.com/Nailahasanah/Pemprosesan-Citra-Digital_PCD.git |
+| 2110131220015 | MEYDA WIKAROMAH | https://github.com/MeydaWikaromah = belum |
+| 2110131210002 | Khoyrur Roykhan | https://github.com/KhoyrurRoykhan = belum |
+| 2110131210018 | Tio Ezekiel | https://github.com/ezkl-t/Pemrosesan_Citra_Digital |
+| 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09/Pemrosesan_Citra_Digital.git |
+| 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra/Tugas_Pemrosesan_Citra_Digital |
+| 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu = belum |
+| - | Trisena Wulandari | https://github.com/TrisenaWulandari/Pemrosesan-Citra-Digital |
 
