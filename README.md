@@ -27,7 +27,7 @@
 | 2110131220013 | Iif Alifah | https://github.com/IifAlifah/Pemrosesan-Citra-Digital |
 | 2110131120005 | JULITA HASANAH | https://github.com/JulitaHasanah/Pemrosesan-Citra-Digital |
 | 2110131320010 | ADELIA ERLYN NOR CANDRA PRASETYANA | https://github.com/adeliaerlyn/Pemrosesan-Citra-Digital |
-| 2110131220010 | SESILIA MIRANDA | https://github.com/sesiliamiranda/Pemerosesan_Citra_Digital |
+| 2110131220010 | SESILIA MIRANDA | https://github.com/sesiliamiranda/Pengolahan_Citra_Digital |
 | 2110131320009 | Ana Maria Parasanti | https://github.com/anamria/PemrosesanCitraDigita |
 | 2110131120007 | Nurhaliza | https://github.com/nurhalizach/Pemrosesan_Citra_Digital |
 | 2110131220007 | Naila Hasanah | https://github.com/Nailahasanah/Pemprosesan-Citra-Digital_PCD.git |
