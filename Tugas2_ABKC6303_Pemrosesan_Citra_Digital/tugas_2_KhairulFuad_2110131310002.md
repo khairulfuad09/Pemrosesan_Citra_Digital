@@ -18,3 +18,4 @@ Dan terakhir ada imshow untuk menampilkan fotonya atau gambar.
 Adapun beberapa hal yang saya dapat diluar imread, imhist, dan imshow, kita sebelumnya harus menentukan warna apa yg akan kita tampilkan, misal pada varial `Red = cat(R,G*0,B*0);` disini artinya menyimpan gambar yang terfokus pada layer merah saja dan juga untuk yang Blue, dan Green juga sama, hanya saja kita rubah yang R dikalikan 0 dan G tidak untuk di simpan di variabel Green.
 
 Dan untuk menampilkan gambar sebelum imshow, kita juga memerlukan subplot untuk mengatur tata letak gambarnya.
+
