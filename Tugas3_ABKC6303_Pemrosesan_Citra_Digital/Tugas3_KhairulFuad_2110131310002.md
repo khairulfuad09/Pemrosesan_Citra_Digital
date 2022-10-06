@@ -53,8 +53,84 @@ ola adalah yang paling sederhana dari tiga teknik untuk menghasilkan gambar half
 
 pattern menghasilkan gambar halftoning digital dari gambar input menggunakan teknik pola. Pola program membaca gambar input, mengkuantisasi nilai piksel, dan memetakan setiap piksel ke pola yang sesuai. Gambar yang dihasilkan 16 kali lebih besar dari aslinya. Gambar yang dihasilkan ditulis ke file output sebagai file TIFF. Sebuah kata peringatan: "pola" membutuhkan banyak perhitungan, gambar berukuran kurang dari 100x100 direkomendasikan.
 
+
 ## Dithering
 
 Teknik lain yang digunakan untuk menghasilkan gambar halftoning digital adalah dithering. Tidak seperti pola, dithering membuat gambar keluaran dengan jumlah titik yang sama dengan jumlah piksel pada gambar sumber. Dithering dapat dianggap sebagai thresholding gambar sumber dengan matriks gentar. Matriks diletakkan berulang kali di atas gambar sumber. Dimanapun nilai piksel gambar lebih besar dari nilai dalam matriks, titik pada gambar output diisi. Masalah dithering yang terkenal adalah menghasilkan artefak pola yang diperkenalkan oleh matriks ambang batas tetap.
 
 ![](img/dithering.png)
+
+### Menentukan Pola
+
+Karena sistem visual manusia cenderung meratakan suatu area di sekitar piksel, bukan melihat setiap piksel secara sendiri-sendiri, sehingga memungkinkan untuk membuat ilusi dari beberapa tingkat keabuan di dalam sebuah citra biner yang dalam kenyataanya hanya terdiri dari dua tingkat abu-abu. Dengan menggunakan matriks 2x2 piksel, lima nilai intensitas “efektif” yang berbeda dapat terwakili, seperti yang diilustrasikan pada Gambar 3. Demikian juga dengan matriks 4x4 piksel, sepuluh buah tingkat kabuan yang berbeda dapat terwakili. Metode ini disebut dengan dithering, dalam proses dithering blok asli pada citra kemudian akan diganti dengan jenis pola biner tersebut.
+
+Lima pola berbeda dari matriks biner 2x2
+
+![](img/dit1.png)
+
+Ordered dithering dilakukan dengan membandingkan tiap blok dari citra asli dengan sebuah matriks pembatas yang disebut dengan matriks dither.Masing-masing elemen dari blok asli dikuantisasi sesuai dengan nilai batas pada pola dither. Nilai-nilai pada matriks ditheradalah tetap, tetapi bisa bervariasi sesuai dengan jenis citra.
+
+Matriks dither pertama yang digunakan dalam metode ini adalah:
+
+![](img/dit2.png)
+
+Matriks tersebut diulang sampai mencakup seluruh matriks pada citra yang diolah. Katakanlah d(i,j) adalah matriks yang diperoleh dari mereplika A dan x(i,j) adalah citra abu-abu asli. Piksel untuk citra yang dihasilkan p(i,j) didefenisikan sebagai berikut:
+
+![](img/dit3.png)
+
+Hasil konversi citra abu-abu pada Gambar 1 menggunakan metode ordered dithering menggunakan matriks dither 2 x 2, ditunjukkan pada Gambar dibawah ini.
+
+Citra matriks dithering 2x2
+
+![](img/dit4.png)
+
+Selain matriks 2x2, teknik ini juga memiliki matriks dithering yang lainnya, yaitu 4x4 sebagai berikut.
+
+![](img/dit5.png)
+
+ Gambar dibawah ini menunjukkan citra yang dihasilkan dari penggunaan ordered dithering matriks 4x4.
+
+![](img/dit6.png)
+
+adapun dari reference lain cara menentukan dithering:
+
+Pertama sekali, kami akan berusaha untuk melindungi. Dithering biasanya berfungsi untuk meningkatkan tahap awal. Semasa penegangan, tepi tajam muncul di mana kecerunan halus dalam gambar.
+
+Di ambang, kita hanya memilih nilai tetap. Semua piksel di atas nilai tersebut dianggap sebagai 1 dan semua nilai di bawahnya dianggap sebagai 0.
+
+Kami mendapat gambar ini selepas ambang.
+
+![](img/dit7.png)
+
+Oleh kerana tidak banyak perubahan pada gambar, kerana nilainya sudah 0 dan 1 atau hitam putih dalam gambar ini.
+
+Sekarang kita melakukan pengurangan secara rawak. Ini adalah beberapa susunan piksel secara rawak.
+
+![](img/dit8.png)
+
+Kami mendapat gambar yang memberikan gambaran yang lebih ringan, tetapi kontrasnya sangat rendah.
+
+Oleh itu, kita melakukan lebih banyak dithering yang akan meningkatkan kontras. Gambar yang kami dapat ialah:
+
+![](img/dit9.png)
+
+Sekarang kita mencampurkan konsep dithering rawak, bersama dengan ambang dan kita mendapat gambar seperti ini.
+
+![](img/dit10.png)
+
+Sekarang anda lihat, kami mendapat semua gambar ini dengan hanya menyusun semula piksel gambar. Penyusunan semula ini dapat dilakukan secara acak atau mungkin sesuai dengan beberapa ukuran.
+
+
+## menentukan tresholding
+
+ Thresholding adalah metoda paling sederhana dari segmentasi citra. Dari citra grayscale thresholding dapat digunakan untuk membentuk citra biner. Sebuah citra biner adalah sebuah citra digital yang hanya memiliki dua kemungkinan nilai untuk tiap pixel. Kedua warna tersebut adalah hitam dan putih.
+
+Dalam simple thresholding ini nilai ambang ditentukan secara manual antara 0 sampai 1. Dengan menggunakan thresholding maka derajat keabuan bisa diubah sesuai keinginan, misalkan diinginkan menggunakan derajat keabuan 16, maka tinggal membagi nilai derajat keabuan dengan 16. Proses thresholding ini pada dasarnya adalah proses pengubahan kuantisasi pada citra, sehingga untuk melakukan thresholding dengan derajat keabuan dapat digunakan rumus:
+
+![](img/trash1.png)
+
+dimana:
+
+w adalah nilai derajat keabuan sebelum thresholding
+
+x adalah nilai derajat keabuan setelah thresholding
