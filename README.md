@@ -38,4 +38,5 @@
 | 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra/Tugas_Pemrosesan_Citra_Digital |
 | 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu/Pemrosesan_Citra_Digital |
 | 1910131320014 | Trisena Wulandari | https://github.com/TrisenaWulandari/Pemrosesan-Citra-Digital |
+| 1910131310003 | Rizky Ahmad | https://github.com/rizkyahmad16/ABKC6306_Pemrosesan_Citra_Digital |
 
