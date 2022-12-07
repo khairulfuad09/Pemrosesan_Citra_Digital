@@ -1,5 +1,6 @@
 # Nama : Khairul Fuad
 # NIm : 2110131310002
+# Anggota Kelompok : Sofia Refaldi dan Fatimah Azzahra
 
 ## __High Pass Filtering(HPF)__
 
