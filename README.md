@@ -39,8 +39,8 @@
 | 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu/Pemrosesan_Citra_Digital |
 | 1910131320014 | Trisena Wulandari | https://github.com/TrisenaWulandari/Pemrosesan-Citra-Digital |
 | 1910131310003 | Rizky Ahmad | https://github.com/rizkyahmad16/ABKC6306_Pemrosesan_Citra_Digital |
-| - | Haris Muhammad | https://github.com/Haris0210/Tugas_Pemprosesan_Citra_Digital |
-| - | Firdaus | https://github.com/firdaus7neo/Pemrosesan-Citra-Digital-2022-2023 |
+| 1810131210009 | Muhammad Haris | https://github.com/Haris0210/Tugas_Pemprosesan_Citra_Digital |
+| 1810131210001 | Ahmad Firdaus | https://github.com/firdaus7neo/Pemrosesan-Citra-Digital-2022-2023 |
 
 
 
