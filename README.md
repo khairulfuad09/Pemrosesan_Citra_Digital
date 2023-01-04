@@ -42,6 +42,6 @@
 | 1810131210009 | Muhammad Haris | https://github.com/Haris0210/Tugas_Pemprosesan_Citra_Digital |
 | 1810131210001 | Ahmad Firdaus | https://github.com/firdaus7neo/Pemrosesan-Citra-Digital-2022-2023 |
 | 1810131120017 | Rapiyah Hawa Nur | https://github.com/rapiyahhawanur21/Pemrosesan-Citra-Digital.git |
-
+| 1910131220006 | Suci Pajriati | https://github.com/SuciPajriati/ABKC6306_PCD |
 
 
